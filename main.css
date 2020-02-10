@@ -28,7 +28,7 @@ ul {
     list-style: none;
 }
 
-li {
+.highlights li {
     line-height: 1.8em;
 }
 
@@ -140,6 +140,10 @@ a:visited {
 
 .job-fa {
     color: black;
+}
+
+.experience li {
+    margin-bottom: 8px;
 }
 
 /* Device = Google Pixel, iPhone 6+, 7+ and 8+ */
